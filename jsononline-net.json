@@ -1,0 +1,1388 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          1.3904933,
+          41.1325605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-09-09T12:48:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=15440982776242803542",
+        "location": {
+          "address": "Torredembarra, España",
+          "name": "Platja de Canyadell"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-05-25T07:20:55Z",
+        "google_maps_url": "http://maps.google.com/?q=36.199399,37.162961",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-09T21:29:17Z",
+        "google_maps_url": "http://maps.google.com/?q=Calaf,+Barcelona&ftid=0x12a4380d21e25a81:0xd7cd4c6b5e0a59cc",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-20T18:13:30Z",
+        "google_maps_url": "http://maps.google.com/?q=28400+Collado+Villalba,+Madrid&ftid=0xd4173f62e5056e5:0x1d531a9dadd12755",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-05T21:37:08Z",
+        "google_maps_url": "http://maps.google.com/?q=Charang+33100,+Nepal&ftid=0x39be64db5ac4f949:0x7e1c9ebd6bcedf1b",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-03T20:30:48Z",
+        "google_maps_url": "http://maps.google.com/?q=Cuenca&ftid=0xd5d6741369751c3:0x6e81ab6ed08cd292",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-29T13:01:35Z",
+        "google_maps_url": "http://maps.google.com/?q=Nampa,+Idaho,+EE.+UU.&ftid=0x54ae4c694e97f129:0xae19866371324a52",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.8157567,
+          10.3130985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T19:09:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=4058612774204276356",
+        "location": {
+          "address": "Provincia de Puntarenas, Monteverde, Costa Rica",
+          "country_code": "CR",
+          "name": "El Establo Mountain Hotel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T19:08:27Z",
+        "google_maps_url": "http://maps.google.com/?q=Arabia+Saudita&ftid=0x15e7b33fe7952a41:0x5960504bc21ab69b",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T19:08:12Z",
+        "google_maps_url": "http://maps.google.com/?q=Sahara+Occidental&ftid=0xc22482523302153:0xb7a6f81873dfd75a",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T19:08:08Z",
+        "google_maps_url": "http://maps.google.com/?q=Marruecos&ftid=0xd0b88619651c58d:0xd9d39381c42cffc3",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T19:08:00Z",
+        "google_maps_url": "http://maps.google.com/?q=Mauritania&ftid=0xe80b8c314b3394f:0x83220bebd6be534e",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T19:07:56Z",
+        "google_maps_url": "http://maps.google.com/?q=Mal%C3%AD&ftid=0xe143e881b1073cf:0xbb3a5be2a0bdcf80",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T19:02:46Z",
+        "google_maps_url": "http://maps.google.com/?q=44114+Griegos,+Teruel&ftid=0xd5da506f5d9f37f:0x91a8b090d2de1e51",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T14:28:58Z",
+        "google_maps_url": "http://maps.google.com/?q=Lethbridge,+Alberta,+Canad%C3%A1&ftid=0x536e864af15acd23:0x1c5c78e36295beae",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-04T15:25:44Z",
+        "google_maps_url": "http://maps.google.com/?q=Teher%C3%A1n,+Ir%C3%A1n&ftid=0x3f8e00491ff3dcd9:0xf0b3697c567024bc",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-04T15:24:07Z",
+        "google_maps_url": "http://maps.google.com/?q=84100+Orange,+Francia&ftid=0x12b590b375eebce1:0xad1d8ad5844581fa",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-04T15:23:55Z",
+        "google_maps_url": "http://maps.google.com/?q=Palau-de-Cerdagne,+Francia&ftid=0x12a56552bd87b431:0x407882116676810",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-04T12:37:00Z",
+        "google_maps_url": "http://maps.google.com/?q=Nagqu,+T%C3%ADbet,+China&ftid=0x376530c9d373a977:0x83b13173a523ec44",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-04T12:36:44Z",
+        "google_maps_url": "http://maps.google.com/?q=Lelep+57500,+Nepal&ftid=0x39e64595f096aad7:0xcc773b026e269d47",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-11-23T18:01:06Z",
+        "google_maps_url": "http://maps.google.com/?q=19300+Molina+de+Arag%C3%B3n,+Guadalajara&ftid=0xd5cf693468e0a09:0x40aea98eb1be40a4",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-27T20:20:39Z",
+        "google_maps_url": "http://maps.google.com/?q=03313+Torremendo,+Alicante&ftid=0xd63a08a0ac93cbf:0x37242bf7b8be687d",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-25T12:30:04Z",
+        "google_maps_url": "http://maps.google.com/?q=66210+Les+Angles,+Francia&ftid=0x12af8972fa413d2d:0x407882116676fd0",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T16:51:27Z",
+        "google_maps_url": "http://maps.google.com/?q=Wellington,+Nueva+Zelanda&ftid=0x6d38b1fc49e974cb:0xa00ef63a213b470",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T16:51:08Z",
+        "google_maps_url": "http://maps.google.com/?q=Christchurch,+Nueva+Zelanda&ftid=0x6d322f4863c5ed01:0x500ef8684799945",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T16:51:01Z",
+        "google_maps_url": "http://maps.google.com/?q=Nueva+Zelanda&ftid=0x6d2c200e17779687:0xb1d618e2756a4733",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T16:50:04Z",
+        "google_maps_url": "http://maps.google.com/?q=Carrer+de+Maria+Rosa+Gelabert+i+Cases,+21,+08940+Cornell%C3%A0+de+Llobregat,+Barcelona&ftid=0x12a49bdd96e9486f:0xf70cf1028296940f",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T14:41:10Z",
+        "google_maps_url": "http://maps.google.com/?q=Denver,+Colorado,+EE.+UU.&ftid=0x876b80aa231f17cf:0x118ef4f8278a36d6",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T14:40:32Z",
+        "google_maps_url": "http://maps.google.com/?q=Alert,+Nunavut,+Canad%C3%A1&ftid=0x4fc4114b88882f0f:0x613c23fc73a032f2",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T14:39:39Z",
+        "google_maps_url": "http://maps.google.com/?q=La+Rinconada,+Per%C3%BA&ftid=0x9166ef910887cc3d:0x2a37575298594f8c",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3597503,
+          -3.0499002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T14:39:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=14116211281320099144",
+        "location": {
+          "address": "Gilman's Point, Tanzania",
+          "country_code": "TZ",
+          "name": "Parque Nacional del Kilimanjaro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T14:38:41Z",
+        "google_maps_url": "http://maps.google.com/?q=Monte+Tubqal,+Marruecos&ftid=0xdb00d01f56d56f5:0x1a9b7e0d1eb576b8",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.4067879,
+          -50.9423262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T14:36:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=10473470844208626079",
+        "location": {
+          "address": "Magallanes y la Antártica Chilena, Chile",
+          "country_code": "CL",
+          "name": "Parque Nacional Torres del Paine"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T14:35:21Z",
+        "google_maps_url": "http://maps.google.com/?q=Aconcagua,+Mendoza,+Argentina&ftid=0x9687925500c38047:0x5234c15eaaa14869",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.4006356,
+          37.094775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T14:32:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=4921168215098007846",
+        "location": {
+          "address": "Plaza Andalucia, Edificio, Local 1, 18196 Sierra Nevada, Granada, España",
+          "country_code": "ES",
+          "name": "Parque Nacional de Sierra Nevada"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.657928,
+          36.8679725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T14:32:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=14160304018684358601",
+        "location": {
+          "address": "C. la Huerta, 13, 04728 Felix, Almería, España",
+          "country_code": "ES",
+          "name": "Farmacia Ldo. Fausto Vílchez Martínez"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.7790749,
+          43.6754388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T14:31:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=329441724003415293",
+        "location": {
+          "address": "Nages, 81320 Nages, Francia",
+          "country_code": "FR",
+          "name": "Maison André et Francine Terral"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-23T14:30:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=7011925309459061669",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          51.3380361,
+          35.6997326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:59:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=18212205151353902580",
+        "location": {
+          "address": "Tehran, Azadi Sq, Irán",
+          "country_code": "IR",
+          "name": "Azadi Tower"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3965817,
+          39.4199579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:57:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=8543207833998483826",
+        "location": {
+          "address": "Av. Camí Nou, 117, Bajo, 46910 Alfafar, Valencia, España",
+          "country_code": "ES",
+          "name": "Tienda Orange"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3969689,
+          39.4197109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:57:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=6756493173049122943",
+        "location": {
+          "address": "Av. Camí Nou, 138, 46910 Benetússer, Valencia, España",
+          "country_code": "ES",
+          "name": "Vodafone"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.9691186,
+          42.4150969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:55:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=7659092204012704174",
+        "location": {
+          "address": "2 Av. du Lac, 66340 Palau-de-Cerdagne, Francia",
+          "country_code": "FR",
+          "name": "L'Estaminet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.484583,
+          42.183202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:55:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=5844644411981116292",
+        "location": {
+          "address": "Passeig Bisbe Guillamet, 10, 17800 Olot, Girona, España",
+          "country_code": "ES",
+          "name": "Ajuntament d'Olot"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.5531691,
+          42.1419334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:54:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=3304616621907846669",
+        "location": {
+          "address": "Carr. de Sta. Coloma, 47, 17800 Olot, Girona, España",
+          "country_code": "ES",
+          "name": "Parque Natural de la Zona Volcánica de la Garrotxa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:54:12Z",
+        "google_maps_url": "http://maps.google.com/?q=25560+Sort,+L%C3%A9rida&ftid=0x12a605dc0369c501:0xf06348cef8cfd80f",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0573016,
+          41.3957058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:53:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=14928189600251248765",
+        "location": {
+          "address": "Riera de la Salut, s/n, 120, 08980 Sant Feliu de Llobregat, Barcelona, España",
+          "country_code": "ES",
+          "name": "Restaurante Masia La Salut"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.06595,
+          41.379475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:53:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=397166152308624657",
+        "location": {
+          "address": "Ctra. Reial, 340, |, Nº 145, 08960 Sant Just Desvern, Barcelona, España",
+          "country_code": "ES",
+          "name": "McDonald's"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0615991,
+          41.3651118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:53:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=7174520703249713501",
+        "location": {
+          "address": "Passeig del Canal, 2, 08970 Sant Joan Despí, Barcelona, España",
+          "country_code": "ES",
+          "name": "Esplai el Nus"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0552862,
+          41.3723334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:53:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=12247191615230447958",
+        "location": {
+          "address": "Carrer Francesc Macià, 57, 08970 Sant Joan Despí, Barcelona, España",
+          "name": "Ateneu Instructiu"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:52:20Z",
+        "google_maps_url": "http://maps.google.com/?q=3800+Matten+bei+Interlaken,+Suiza&ftid=0x478fa37e7123358b:0xea423cbbb2982a8a",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.8573855,
+          46.6866541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:52:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=5296718466638432432",
+        "location": {
+          "address": "Höheweg 41, 3800 Interlaken, Suiza",
+          "country_code": "CH",
+          "name": "Victoria-Jungfrau Grand Hotel & Spa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.8515868,
+          46.682665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:51:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=18386534947905524318",
+        "location": {
+          "address": "3800 Interlaken, Suiza",
+          "country_code": "CH",
+          "name": "Interlaken West"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:51:21Z",
+        "google_maps_url": "http://maps.google.com/?q=Siria&ftid=0x1518e6dc413cc6a7:0x877546f4882af620",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:51:11Z",
+        "google_maps_url": "http://maps.google.com/?q=Alepo,+Siria&ftid=0x152ff813b98135af:0x967e5e5fc542c32a",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:50:49Z",
+        "google_maps_url": "http://maps.google.com/?q=Brasil&ftid=0x9c59c7ebcc28cf:0x295a1506f2293e63",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:50:20Z",
+        "google_maps_url": "http://maps.google.com/?q=Cd+Ju%C3%A1rez,+Chih.,+M%C3%A9xico&ftid=0x86e75ecb3d0b329d:0xb196100549c7974",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:50:08Z",
+        "google_maps_url": "http://maps.google.com/?q=El+Paso,+Texas,+EE.+UU.&ftid=0x86e73f8bc5fe3b69:0xe39184e3ab9d0222",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:49:58Z",
+        "google_maps_url": "http://maps.google.com/?q=Phoenix,+Arizona,+EE.+UU.&ftid=0x872b12ed50a179cb:0x8c69c7f8354a1bac",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:49:39Z",
+        "google_maps_url": "http://maps.google.com/?q=Lhasa,+T%C3%ADbet,+China&ftid=0x376131633a32541d:0x931c8eef06f9b800",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:49:26Z",
+        "google_maps_url": "http://maps.google.com/?q=K2&ftid=0x38fad5add7ff4adb:0xc531647bf8e9d577",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:48:45Z",
+        "google_maps_url": "http://maps.google.com/?q=Monte+Everest&ftid=0x39e854a215bd9ebd:0x576dcf806abbab2",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:48:17Z",
+        "google_maps_url": "http://maps.google.com/?q=Reino+Unido&ftid=0x25a3b1142c791a9:0xc4f8a0433288257a",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:48:11Z",
+        "google_maps_url": "http://maps.google.com/?q=Cambridge,+Reino+Unido&ftid=0x47d85d89f32a012d:0x63a320e1a35e3d21",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-22T18:48:02Z",
+        "google_maps_url": "http://maps.google.com/?q=Londres,+Reino+Unido&ftid=0x47d8a00baf21de75:0x52963a5addd52a99",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:37:17Z",
+        "google_maps_url": "http://maps.google.com/?q=Indonesia&ftid=0x2c4c07d7496404b7:0xe37b4de71badf485",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:36:54Z",
+        "google_maps_url": "http://maps.google.com/?q=Lausana,+Suiza&ftid=0x478c293ecd89a7e5:0xeb173fc9cae2ee5e",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.9821133,
+          46.5474576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:36:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=17820145431783239385",
+        "location": {
+          "address": "Jungfraujoch, 3801 Jungfraujoch, Suiza",
+          "country_code": "CH",
+          "name": "Jungfraujoch"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:36:19Z",
+        "google_maps_url": "http://maps.google.com/?q=Jungfrau,+3984+Lauterbrunnen,+Suiza&ftid=0x478f7577baf2470f:0x9642e2a3e700847e",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:36:05Z",
+        "google_maps_url": "http://maps.google.com/?q=Beatenberg,+Suiza&ftid=0x478fbab44b7dc467:0xdaa0722d3a3bd85b",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:35:35Z",
+        "google_maps_url": "http://maps.google.com/?q=Mandalgobi,+Mongolia&ftid=0x5d8dce593c21e6e7:0x2aa9abea46b45f56",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:35:28Z",
+        "google_maps_url": "http://maps.google.com/?q=Ul%C3%A1n+Bator,+Mongolia&ftid=0x5d96925be2b18aab:0xe606927864a1847f",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:35:19Z",
+        "google_maps_url": "http://maps.google.com/?q=Rusia&ftid=0x453c569a896724fb:0x1409fdf86611f613",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:35:11Z",
+        "google_maps_url": "http://maps.google.com/?q=Angola&ftid=0x1a51f24ecaad8b27:0x590a289d0d4a4e3d",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:35:05Z",
+        "google_maps_url": "http://maps.google.com/?q=In+Amenas,+Argelia&ftid=0x123594a5f256a591:0x14588c154d54db0c",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:34:37Z",
+        "google_maps_url": "http://maps.google.com/?q=Longyearbyen,+Svalbard+y+Jan+Mayen&ftid=0x459c52d84f4557df:0xda86b2caa16495ec",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:34:07Z",
+        "google_maps_url": "http://maps.google.com/?q=Svalbard,+Svalbard+y+Jan+Mayen&ftid=0x45a1cfdc4fa3c049:0x2bf373e71b35e875",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:33:49Z",
+        "google_maps_url": "http://maps.google.com/?q=Canad%C3%A1&ftid=0x4b0d03d337cc6ad9:0x9968b72aa2438fa5",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:33:42Z",
+        "google_maps_url": "http://maps.google.com/?q=Estados+Unidos&ftid=0x54eab584e432360b:0x1c3bb99243deb742",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:33:34Z",
+        "google_maps_url": "http://maps.google.com/?q=Florida,+EE.+UU.&ftid=0x88c1766591562abf:0xf72e13d35bc74ed0",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:33:26Z",
+        "google_maps_url": "http://maps.google.com/?q=Arizona,+EE.+UU.&ftid=0x872b08ebcb4c186b:0x423927b17fc1cd71",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:33:13Z",
+        "google_maps_url": "http://maps.google.com/?q=Leh&ftid=0x38fdeb21445fed85:0xd1bb09975086f710",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:33:04Z",
+        "google_maps_url": "http://maps.google.com/?q=Limi,+Nepal&ftid=0x39a4f315a2961f35:0xea7a12d99d3222ea",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:32:43Z",
+        "google_maps_url": "http://maps.google.com/?q=Morella,+Castell%C3%B3n&ftid=0xd5f8268c9ce76dd:0x7f689d6f9cc6663c",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:32:28Z",
+        "google_maps_url": "http://maps.google.com/?q=Interlaken,+Suiza&ftid=0x1453996a31921a05:0x9c111af14c02be00",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:32:14Z",
+        "google_maps_url": "http://maps.google.com/?q=Vilafranca+de+Conflent,+Francia&ftid=0x12aff93f6bd61ff3:0x4a45c312ced5759d",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-10-12T14:32:00Z",
+        "google_maps_url": "http://maps.google.com/?q=08940+Cornell%C3%A1+de+Llobregat,+Barcelona&ftid=0x12a4995b21dba8f9:0x400fae021a40690",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-09-16T21:07:56Z",
+        "google_maps_url": "http://maps.google.com/?q=44147+Cedrillas,+Teruel&ftid=0xd5e430e46d2e757:0x9089cd65c50d9f3a",
+        "Comment": "No hay información de ubicación disponible para este sitio guardado"
+      },
+      "type": "Feature"
+    }
+  ]
+}
